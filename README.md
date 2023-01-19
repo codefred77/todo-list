@@ -15,8 +15,11 @@ You will need to download all files to your computer and run a server to see the
 3. Click the [<> Code ] pulld-down menu and select Download ZIP
 4. Unzip files and move them to the dirctory you created (todo-list)
 5. Start a server:
-    -->npm install --global http-server
-    -->http-server -c-1
+    
+    npm install --global http-server
+    
+    http-server -c-1
+    
 6. Point your browser to localhost:8080
 7. Use Ctrl+c to stop server when done
 
